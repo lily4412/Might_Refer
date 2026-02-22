@@ -5,13 +5,13 @@ This project demonstrates a simple GUI using Python's **Tkinter** library.
 ### Key Commands / Concepts Used
 
 1. **Import Tkinter**
-Imports all Tkinter functions and classes to create GUI elements.
+-Imports all Tkinter functions and classes to create GUI elements.
 ```python
 from tkinter import *
 ````
 
 2. **Create Main Window**
-Initializes the main application window.
+-Initializes the main application window.
 ```python
 root = Tk()
 ```
