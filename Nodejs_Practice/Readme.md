@@ -46,9 +46,3 @@ You can test your API endpoints using **Thunder Client** in VS Code:
 ├── package-lock.json # Automatically generated lock file for dependencies
 └── README.md         # Project documentation
 ```
-
-If you want, I can also make a **more “GitHub-ready” version** with badges, commands in a **code block style**, and a **clean visual layout like professional repos**.  
-
-Do you want me to do that next?
-```
-
