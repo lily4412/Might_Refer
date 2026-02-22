@@ -9,7 +9,7 @@ This project demonstrates a simple GUI using Python's **Tkinter** library.
 
 ```python
 from tkinter import *
-
+```
 
 2. **Create Main Window**
 
